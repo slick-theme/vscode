@@ -1,0 +1,124 @@
+{
+  "name": "slick-theme",
+  "displayName": "Slick",
+  "description": "A cyberpunk theme in any colour you want. Dark and light variants with fixed contrast.",
+  "version": "0.1.0",
+  "publisher": "semirix",
+  "license": "MIT",
+  "icon": "logo.png",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/slick-theme/vscode.git"
+  },
+  "homepage": "https://github.com/slick-theme/vscode",
+  "bugs": {
+    "url": "https://github.com/slick-theme/vscode/issues"
+  },
+  "keywords": [
+    "theme",
+    "color-theme",
+    "cyberpunk",
+    "dark",
+    "light"
+  ],
+  "engines": {
+    "vscode": "^1.70.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Slick Black",
+        "uiTheme": "vs-dark",
+        "path": "./themes/slick-black-color-theme.json"
+      },
+      {
+        "label": "Slick Red",
+        "uiTheme": "vs-dark",
+        "path": "./themes/slick-red-color-theme.json"
+      },
+      {
+        "label": "Slick Yellow",
+        "uiTheme": "vs-dark",
+        "path": "./themes/slick-yellow-color-theme.json"
+      },
+      {
+        "label": "Slick Magenta",
+        "uiTheme": "vs-dark",
+        "path": "./themes/slick-magenta-color-theme.json"
+      },
+      {
+        "label": "Slick Cyan",
+        "uiTheme": "vs-dark",
+        "path": "./themes/slick-cyan-color-theme.json"
+      },
+      {
+        "label": "Slick Blue",
+        "uiTheme": "vs-dark",
+        "path": "./themes/slick-blue-color-theme.json"
+      },
+      {
+        "label": "Slick Orange",
+        "uiTheme": "vs-dark",
+        "path": "./themes/slick-orange-color-theme.json"
+      },
+      {
+        "label": "Slick Green",
+        "uiTheme": "vs-dark",
+        "path": "./themes/slick-green-color-theme.json"
+      },
+      {
+        "label": "Slick Emerald",
+        "uiTheme": "vs-dark",
+        "path": "./themes/slick-emerald-color-theme.json"
+      },
+      {
+        "label": "Slick Zesty",
+        "uiTheme": "vs",
+        "path": "./themes/slick-zesty-color-theme.json"
+      },
+      {
+        "label": "Slick Zesty Red",
+        "uiTheme": "vs",
+        "path": "./themes/slick-zesty-red-color-theme.json"
+      },
+      {
+        "label": "Slick Zesty Yellow",
+        "uiTheme": "vs",
+        "path": "./themes/slick-zesty-yellow-color-theme.json"
+      },
+      {
+        "label": "Slick Zesty Magenta",
+        "uiTheme": "vs",
+        "path": "./themes/slick-zesty-magenta-color-theme.json"
+      },
+      {
+        "label": "Slick Zesty Cyan",
+        "uiTheme": "vs",
+        "path": "./themes/slick-zesty-cyan-color-theme.json"
+      },
+      {
+        "label": "Slick Zesty Blue",
+        "uiTheme": "vs",
+        "path": "./themes/slick-zesty-blue-color-theme.json"
+      },
+      {
+        "label": "Slick Zesty Orange",
+        "uiTheme": "vs",
+        "path": "./themes/slick-zesty-orange-color-theme.json"
+      },
+      {
+        "label": "Slick Zesty Green",
+        "uiTheme": "vs",
+        "path": "./themes/slick-zesty-green-color-theme.json"
+      },
+      {
+        "label": "Slick Zesty Emerald",
+        "uiTheme": "vs",
+        "path": "./themes/slick-zesty-emerald-color-theme.json"
+      }
+    ]
+  }
+}
